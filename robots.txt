@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /c2p/
+Disallow: /member/
+Disallow: /sponsor/
+Disallow: /gatekeeper/
+Disallow: /citywatch/
+Disallow: /reports/
+Disallow: /sysadmin/
+Disallow: /mobile/
+Disallow: /linc/
